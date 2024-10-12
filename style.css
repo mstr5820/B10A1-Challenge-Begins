@@ -45,7 +45,174 @@ header{
     gap: 10px;
     margin-top: 10px;
     margin-bottom: 50px;
+    font-family: "Azeret Mono";
 }
 
+.Why-Web-Development{
+    padding: 80px 97px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    padding-bottom: 90px;
+}
 
-  
+.why-web{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.why-web-title{
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-bottom: 20px;
+}
+
+.img-box-1{
+    display: flex;
+    justify-content:space-evenly;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    gap: 10px;
+}
+.box1-title{
+    color: rgba(13, 19, 33, 0.70);
+    font-family: "Azeret Mono";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; /* 150% */
+    padding-bottom: 20px;
+}
+.box1-dis{
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    padding-bottom: 30px;
+}
+.box-btn{
+    display: flex;
+    padding: 12px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid #0D1321;
+    opacity: 0.7;
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.box1-img{
+    display: flex;
+    width: 274.169px;
+    height: 240px;
+    padding: 3.767px 13.664px 19.221px 0.941px;
+    align-items: center;
+    flex-shrink: 0;
+}
+.img-box-2{
+    display: flex;
+    justify-content:space-evenly;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    gap: 10px;
+}
+.box2-title{
+    color: rgba(13, 19, 33, 0.70);
+    font-family: "Azeret Mono";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; /* 150% */
+    padding-bottom: 30px;
+}
+.box2-dis{
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    padding-bottom: 30px;
+}
+.box2-img{
+    display: flex;
+    width: 274.169px;
+    height: 240px;
+    padding: 3.767px 13.664px 19.221px 0.941px;
+    align-items: center;
+    flex-shrink: 0;
+}
+.img-box-3{
+    display: flex;
+    justify-content:space-evenly;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    gap: 10px;
+}
+.box3-title{
+    color: rgba(13, 19, 33, 0.70);
+    font-family: "Azeret Mono";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; /* 150% */
+    padding-bottom: 30px;
+}
+.box3-dis{
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    padding-bottom: 30px;
+}
+.box3-img{
+    display: flex;
+    width: 274.169px;
+    height: 240px;
+    padding: 3.767px 13.664px 19.221px 0.941px;
+    align-items: center;
+    flex-shrink: 0;
+}
+.My-Inspiration{
+    text-align: center;
+    align-items: center;
+}
+.my-ins-title{
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-bottom: 15px;
+}
+.my-ins-dis{
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    padding-bottom: 40px;
+}
